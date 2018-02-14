@@ -6,6 +6,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Git working");
 		System.out.println("Editing committed file");
+		System.out.println();
 
 	}
 
